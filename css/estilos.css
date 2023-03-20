@@ -11,6 +11,10 @@ body{
     border: 1px solid pink;
 }
 
+#cabecera {
+    color: blueviolet;
+}
+
 #seleccionar-mascota {
     display: flex;
     flex-direction: column;
