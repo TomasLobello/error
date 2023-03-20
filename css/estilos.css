@@ -4,16 +4,6 @@ body{
     font-family: 'M PLUS Rounded 1c', sans-serif;
     background-color: rgb(94, 94, 94);
 }
-#container {
-    width: 70%;
-    padding: 1em;
-    text-align: left;
-    border: 1px solid pink;
-}
-
-#cabecera {
-    color: blueviolet;
-}
 
 #seleccionar-mascota {
     display: flex;
